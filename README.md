@@ -10,4 +10,4 @@ Veri Kaynağı https://github.com/ozanerturk/covid19-turkey-api
 
 ## ggplot2 kütüphanesi ile Covid-19 Sağlık Bakanlığı Plotu
 
-![alt text](https://github.com/[tolgakurtuluss]/[covid19saglikbakanligimap]/blob/[master]/covidmaptr.png?raw=true)
+![alt text](https://github.com/tolgakurtuluss/covid19saglikbakanligimap/blob/main/covidmaptr.png?raw=true)
